@@ -1,0 +1,8 @@
+Manifest.toml
+examples/*/Manifest.toml
+examples/*/output_*/
+examples/*/output/
+*.jld2
+*.mp4
+*.png
+.DS_Store

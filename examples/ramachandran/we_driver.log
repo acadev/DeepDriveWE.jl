@@ -1,0 +1,1055 @@
+Precompiling packages...
+   5008.7 ms  ✓ DeepDriveWE
+  1 dependency successfully precompiled in 6 seconds. 159 already precompiled.
+[ Info: Loaded 2 basis states
+┌ Info: WE iteration 1
+│   n_walkers = 4
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 2
+│   n_walkers = 6
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 3
+│   n_walkers = 8
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 4
+│   n_walkers = 12
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 5
+│   n_walkers = 18
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 6
+│   n_walkers = 16
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 7
+│   n_walkers = 16
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 8
+│   n_walkers = 18
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 9
+│   n_walkers = 16
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 10
+│   n_walkers = 20
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 11
+│   n_walkers = 22
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 12
+│   n_walkers = 20
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 13
+│   n_walkers = 22
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 14
+│   n_walkers = 24
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 15
+│   n_walkers = 18
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 16
+│   n_walkers = 24
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 17
+│   n_walkers = 22
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 18
+│   n_walkers = 22
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 19
+│   n_walkers = 26
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 20
+│   n_walkers = 26
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 21
+│   n_walkers = 20
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 22
+│   n_walkers = 22
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 23
+│   n_walkers = 18
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 24
+│   n_walkers = 14
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 25
+│   n_walkers = 20
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 26
+│   n_walkers = 20
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 27
+│   n_walkers = 16
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 28
+│   n_walkers = 22
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 29
+│   n_walkers = 22
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 30
+│   n_walkers = 28
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 31
+│   n_walkers = 24
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 32
+│   n_walkers = 26
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 33
+│   n_walkers = 24
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 34
+│   n_walkers = 20
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 35
+│   n_walkers = 20
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 36
+│   n_walkers = 18
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 37
+│   n_walkers = 20
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 38
+│   n_walkers = 18
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 39
+│   n_walkers = 18
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 40
+│   n_walkers = 24
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 41
+│   n_walkers = 24
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 42
+│   n_walkers = 22
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 43
+│   n_walkers = 24
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 44
+│   n_walkers = 22
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 45
+│   n_walkers = 24
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 46
+│   n_walkers = 18
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 47
+│   n_walkers = 18
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 48
+│   n_walkers = 22
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 49
+│   n_walkers = 16
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 50
+│   n_walkers = 22
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 51
+│   n_walkers = 20
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 52
+│   n_walkers = 18
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 53
+│   n_walkers = 20
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 54
+│   n_walkers = 16
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 55
+│   n_walkers = 18
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 56
+│   n_walkers = 18
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 57
+│   n_walkers = 16
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 58
+│   n_walkers = 22
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 59
+│   n_walkers = 24
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 60
+│   n_walkers = 18
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 61
+│   n_walkers = 16
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 62
+│   n_walkers = 18
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 63
+│   n_walkers = 16
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 64
+│   n_walkers = 22
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 65
+│   n_walkers = 20
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 66
+│   n_walkers = 26
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 67
+│   n_walkers = 24
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 68
+│   n_walkers = 22
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 69
+│   n_walkers = 30
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 70
+│   n_walkers = 26
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 71
+│   n_walkers = 26
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 72
+│   n_walkers = 18
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 73
+│   n_walkers = 20
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 74
+│   n_walkers = 20
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 75
+│   n_walkers = 20
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 76
+│   n_walkers = 22
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 77
+│   n_walkers = 24
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 78
+│   n_walkers = 22
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 79
+│   n_walkers = 20
+│   total_weight = 0.9999999999999999
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 80
+│   n_walkers = 16
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 81
+│   n_walkers = 16
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 82
+│   n_walkers = 18
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 83
+│   n_walkers = 22
+│   total_weight = 0.9999999999999997
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 84
+│   n_walkers = 18
+│   total_weight = 0.9999999999999999
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 85
+│   n_walkers = 14
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 86
+│   n_walkers = 16
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 87
+│   n_walkers = 18
+│   total_weight = 0.9999999999999999
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 88
+│   n_walkers = 22
+│   total_weight = 1.0000000000000002
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 89
+│   n_walkers = 24
+│   total_weight = 0.9999999999999999
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 90
+│   n_walkers = 22
+│   total_weight = 0.9999999999999999
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 91
+│   n_walkers = 20
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 92
+│   n_walkers = 22
+│   total_weight = 0.9999999999999998
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 93
+│   n_walkers = 26
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 94
+│   n_walkers = 24
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 95
+│   n_walkers = 22
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 96
+│   n_walkers = 20
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 97
+│   n_walkers = 12
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 98
+│   n_walkers = 14
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 99
+│   n_walkers = 14
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 100
+│   n_walkers = 16
+│   total_weight = 0.9999999999999998
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 101
+│   n_walkers = 20
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 102
+│   n_walkers = 18
+│   total_weight = 0.9999999999999999
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 103
+│   n_walkers = 18
+│   total_weight = 0.9999999999999999
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 104
+│   n_walkers = 20
+│   total_weight = 0.9999999999999999
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 105
+│   n_walkers = 14
+│   total_weight = 0.9999999999999999
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 106
+│   n_walkers = 14
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 107
+│   n_walkers = 18
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 108
+│   n_walkers = 18
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 109
+│   n_walkers = 20
+│   total_weight = 0.9999999999999998
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 110
+│   n_walkers = 18
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 111
+│   n_walkers = 18
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 112
+│   n_walkers = 20
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 113
+│   n_walkers = 22
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 114
+│   n_walkers = 22
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 115
+│   n_walkers = 30
+│   total_weight = 0.9999999999999998
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 116
+│   n_walkers = 30
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 117
+│   n_walkers = 24
+│   total_weight = 0.9999999999999999
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 118
+│   n_walkers = 22
+│   total_weight = 0.9999999999999999
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 119
+│   n_walkers = 22
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 120
+│   n_walkers = 20
+│   total_weight = 0.9999999999999998
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 121
+│   n_walkers = 18
+│   total_weight = 0.9999999999999998
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 122
+│   n_walkers = 22
+│   total_weight = 0.9999999999999999
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 123
+│   n_walkers = 18
+│   total_weight = 0.9999999999999997
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 124
+│   n_walkers = 20
+│   total_weight = 0.9999999999999999
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 125
+│   n_walkers = 20
+│   total_weight = 0.9999999999999999
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 126
+│   n_walkers = 18
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 127
+│   n_walkers = 14
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 128
+│   n_walkers = 10
+│   total_weight = 0.9999999999999999
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 129
+│   n_walkers = 16
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 130
+│   n_walkers = 18
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 131
+│   n_walkers = 14
+│   total_weight = 0.9999999999999999
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 132
+│   n_walkers = 16
+│   total_weight = 1.0000000000000002
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 133
+│   n_walkers = 16
+│   total_weight = 0.9999999999999999
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 134
+│   n_walkers = 20
+│   total_weight = 0.9999999999999998
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 135
+│   n_walkers = 18
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 136
+│   n_walkers = 18
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 137
+│   n_walkers = 22
+│   total_weight = 0.9999999999999998
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 138
+│   n_walkers = 20
+│   total_weight = 0.9999999999999999
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 139
+│   n_walkers = 16
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 140
+│   n_walkers = 16
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 141
+│   n_walkers = 22
+│   total_weight = 0.9999999999999999
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 142
+│   n_walkers = 18
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 143
+│   n_walkers = 18
+│   total_weight = 1.0000000000000002
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 144
+│   n_walkers = 20
+│   total_weight = 1.0000000000000002
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 145
+│   n_walkers = 16
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 146
+│   n_walkers = 22
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 147
+│   n_walkers = 26
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 148
+│   n_walkers = 26
+│   total_weight = 1.0000000000000004
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 149
+│   n_walkers = 30
+│   total_weight = 1.0000000000000002
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+┌ Info: WE iteration 150
+│   n_walkers = 28
+│   total_weight = 1.0
+│   bin_target_counts =
+│    144-element Vector{Int64}:
+│     2
+└     ⋮
+Total MD steps run (WE): 1471000
